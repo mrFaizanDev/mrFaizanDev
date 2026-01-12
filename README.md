@@ -58,22 +58,6 @@ OpenAI API, Custom GPT Development
 - AI-powered product features  
 - Clean code and best practices  
 
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mrFaizanDev&show_icons=true&theme=radical" />
-</p>
-
----
-
-## 🔥 Streak Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrFaizanDev&theme=radical" />
-</p>
-
----
-
 ## 🌐 Connect With Me
 - 💼 **LinkedIn:** https://www.linkedin.com/in/mohdfaizanansari/  
 - 🧑‍💻 **LeetCode:** https://leetcode.com/u/mohdfaizanlko8/  
